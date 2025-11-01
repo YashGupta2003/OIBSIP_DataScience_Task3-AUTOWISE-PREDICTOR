@@ -3,11 +3,6 @@
 
 ## 📊 Project Overview
 
-<div align="center">
-  
-![AutoWise Demo](https://via.placeholder.com/800x400/2D3748/FFFFFF?text=AutoWise+Car+Price+Prediction+Dashboard)
-
-</div>
 
 **AutoWise** is a comprehensive machine learning solution that accurately predicts used car prices based on various features like brand, age, mileage, fuel type, and more. Built during my internship at **Oasis Infobyte**, this project demonstrates end-to-end data science capabilities from data processing to web deployment.
 
@@ -102,9 +97,7 @@ Feature Impact - How each feature affects the price
 
 Correlation Analysis - Relationships between different variables
 
-📸 Screenshots
-Prediction Interface	Analytics Dashboard
-https://via.placeholder.com/400x250/4A5568/FFFFFF?text=Prediction+Interface	https://via.placeholder.com/400x250/4A5568/FFFFFF?text=Analytics+Dashboard
+
 📊 Results & Impact
 ✅ Accurate Predictions: High precision in car price valuation
 
@@ -150,3 +143,4 @@ Mentors and Peers for valuable feedback and support
 <div align="center">
 ⭐ If you find this project helpful, don't forget to give it a star!
 Built with ❤️ during Oasis Infobyte Data Science Internship
+
